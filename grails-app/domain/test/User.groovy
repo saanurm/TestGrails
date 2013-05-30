@@ -2,7 +2,7 @@ package test
 
 class User {
     def username
-    def password
+      def userType
     static constraints = {
     }
 }
